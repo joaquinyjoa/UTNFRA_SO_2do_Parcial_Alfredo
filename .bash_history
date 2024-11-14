@@ -269,3 +269,9 @@ git add /home/joaquin/.
 git add /home/joaquin/
 git add /home/joaquin/ .
 cd
+git add .
+git commit -m "Agregue el dockerfile"
+git push origin main 
+cd UTN-FRA_SO_Examenes/202406/docker/
+echo "sudo docker build -t web1-greco ." >> /home//joaquin/RTA_Examen_20241114/Punto_C.sh 
+cd
