@@ -12,3 +12,4 @@ sudo mkfs.ext4 /dev/mapper/vg_datos-lv_docker
 sudo mkfs.ext4 /dev/mapper/vg_datos-lv_workareas
 sudo mount /dev/mapper/vg_datos-lv_docker /var/lib/docker/
 sudo mount /dev/mapper/vg_datos-lv_workareas /work/
+sudo lvcreate -L 512M -n lv_swap vg_temp
