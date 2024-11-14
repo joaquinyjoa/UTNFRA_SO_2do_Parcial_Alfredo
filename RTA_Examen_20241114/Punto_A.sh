@@ -5,3 +5,4 @@ sudo vgcreate vg_datos /dev/sdc1
 sudo vgextend vg_datos /dev/sde1
 sudo fdisk /dev/sde
 sudo pvcreate /dev/sde2
+sudo vgcreate vg_temp /dev/sde2
