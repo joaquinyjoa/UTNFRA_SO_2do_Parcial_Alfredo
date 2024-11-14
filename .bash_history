@@ -391,3 +391,29 @@ ll
 vim template_02.j2
 echo "vim template_01.j2" >> /home/joaquin/RTA_Examen_20241114/Punto_D.sh 
 cd
+git add . 
+git commit -m "Cree el primer template"
+git push origin main 
+cd UTN-FRA_SO_Examenes/202406/ansible/roles/
+ll
+cd 2do_parcial/
+ll
+cd  tasks/
+ll
+vim main.yml 
+cd
+cat /etc/shadow
+sudo cat /etc/shadow
+cd UTN-FRA_SO_Examenes/202406/ansible/roles/
+vim main.yml 
+cd 2do_parcial/tasks/
+ll
+vim main.yml 
+cd ..
+ll
+cd roles/
+ll
+cd 2do_parcial/
+ll
+echo "vim main.yml" >> /home/joaquin/RTA_Examen_20241114/Punto_D.sh 
+cd

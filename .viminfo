@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1731616936,,"wq"
+|2,0,1731617952,,"wq"
 :q
-|2,0,1731615691,,"q"
+|2,0,1731617782,,"q"
 :q!
 |2,0,1731597794,,"q!"
 
@@ -29,40 +29,150 @@
 # Registers:
 
 # File marks:
-'0  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
-|4,48,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
-'1  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,49,20,19,1731616575,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
-'2  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
-|4,50,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
-'3  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,51,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
-'4  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,52,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
-'5  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,53,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
-'6  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,54,11,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
-'7  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,55,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
-'8  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,56,11,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
-'9  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,57,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'0  36  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,48,36,19,1731617952,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'1  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/main.yml
+|4,49,1,0,1731617782,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/main.yml"
+'2  34  17  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,50,34,17,1731617706,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'3  26  17  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,51,26,17,1731617706,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'4  35  24  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,52,35,24,1731617353,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'5  35  24  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,53,35,24,1731617353,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'6  27  24  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,54,27,24,1731617353,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'7  27  24  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,55,27,24,1731617353,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'8  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,56,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+'9  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,57,20,19,1731616575,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
 
 # Jumplist (newest first):
+-'  36  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,36,19,1731617952,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  34  17  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,34,17,1731617799,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/main.yml
+|4,39,1,0,1731617782,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/main.yml
+|4,39,1,0,1731617782,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/main.yml"
+-'  26  17  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,26,17,1731617706,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  26  17  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,26,17,1731617706,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  35  24  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,35,24,1731617554,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  27  24  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,27,24,1731617554,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  27  24  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,27,24,1731617554,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  27  24  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,27,24,1731617353,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  27  24  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,27,24,1731617353,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,20,19,1731617106,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,20,19,1731617106,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,20,19,1731617106,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,20,19,1731617106,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,20,19,1731617106,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
 -'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
 |4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
 -'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
 |4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
 -'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
 |4,39,20,19,1731616575,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
 -'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
 |4,39,20,19,1731616575,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,20,19,1731616575,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,20,19,1731616575,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
 -'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
 |4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
 -'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
 |4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
 -'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
 |4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
 -'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
@@ -71,202 +181,84 @@
 |4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
 -'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
 |4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
-|4,39,1,0,1731616422,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
-|4,39,1,0,1731616422,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
-|4,39,1,0,1731616422,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
-|4,39,1,0,1731616422,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
--'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
-|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
--'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
-|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
 
 # History of marks within files (newest to oldest):
 
-> ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
-	*	1731616934	0
-	"	3	21
-	^	3	22
-	.	3	21
-	+	3	35
-	+	3	21
-
 > ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
-	*	1731616573	0
-	"	20	19
-	^	20	20
-	.	19	19
+	*	1731617949	0
+	"	36	19
+	^	36	20
+	.	28	19
 	+	1	217
 	+	3	113
 	+	3	82
@@ -283,6 +275,24 @@
 	+	17	45
 	+	14	19
 	+	19	19
+	+	36	28
+	+	30	55
+	+	33	22
+	+	35	24
+	+	29	0
+	+	28	19
+
+> ~/UTN-FRA_SO_Examenes/202406/ansible/roles/main.yml
+	*	1731617778	0
+	"	1	0
+
+> ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+	*	1731616934	0
+	"	3	21
+	^	3	22
+	.	3	21
+	+	3	35
+	+	3	21
 
 > ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
 	*	1731616515	0
