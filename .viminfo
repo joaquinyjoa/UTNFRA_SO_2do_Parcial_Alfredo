@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q!
-|2,0,1731592533,,"q!"
 :wq
-|2,0,1731592509,,"wq"
+|2,0,1731602100,,"wq"
+:q!
+|2,0,1731597794,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,20 +27,57 @@
 # Registers:
 
 # File marks:
-'0  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,48,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+'0  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,48,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+'1  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,49,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+'2  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,50,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+'3  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,51,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 
 # Jumplist (newest first):
+-'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 -'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
 |4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 -'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
 |4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 
 # History of marks within files (newest to oldest):
 
+> ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+	*	1731602098	0
+	"	5	15
+	^	5	16
+	.	5	16
+	+	3	27
+	+	4	25
+	+	5	16
+
 > /usr/local/bin/Alfredo_AltaUser-Groups.sh
-	*	1731592530	0
-	"	8	0
-	^	8	0
-	.	7	9
+	*	1731597791	0
+	"	9	28
+	^	9	29
+	.	9	29
 	+	7	9
+	+	27	12
+	+	9	29

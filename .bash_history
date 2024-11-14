@@ -210,3 +210,35 @@ git add .
 git commit -m "Agregue el modifique el archivo Alfredo_AltaUser-Groups.sh"
 git push origin main 
 echo "sudo ./Alfredo_AltaUser-Groups.sh /home/joaquin/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt joaquin" >> RTA_Examen_20241114/Punto_B.sh 
+git add .
+git commit -m "Ajecute el archivo Alfredo_AltaUser-Groups.sh"
+git push origin main 
+sudo /etc/passwd
+cat /etc/group
+sudo cat /etc/shadow
+sudo passwd 2P_202406_Prog1
+cd /usr/local/bin/
+vim Alfredo_AltaUser-Groups.sh 
+sudo vim Alfredo_AltaUser-Groups.sh 
+sudo ./Alfredo_AltaUser-Groups.sh /home/joaquin/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt joaquin
+sudo userdel -r 2P_202406_Prog1
+sudo userdel -r 2P_202406_Prog2
+sudo userdel -r 2P_202406_Test1
+sudo userdel -r 2P_202406_Supervisor
+sudo groupdel 2P_GDesa
+sudo groupdel 2P_GTest
+sudo groupdel 2PSupervisores
+sudo cat /etc/passwd | grep '2P_202406'
+sudo cat /etc/group | grep '2P_'
+sudo userdel -r 2P_202406_Prog1
+sudo ./Alfredo_AltaUser-Groups.sh /home/joaquin/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt joaquin
+sudo cat etc/shadow
+cd
+sudo cat etc/shadow
+sudo cat /etc/shadow
+ll
+cd UTN-FRA_SO_Examenes/202406/docker/
+ll
+vim index.html 
+echo "vim index.html" >> /home/joaquin/RTA_Examen_20241114/Punto_C.sh 
+cd
