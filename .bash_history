@@ -293,3 +293,11 @@ cd UTN-FRA_SO_Examenes/202406/docker/
 vim run.sh
 echo "vim run.sh" >> /home/joaquin/RTA_Examen_20241114/Punto_C.sh 
 cd 
+git add .
+git commit -m "Cree el archivo run"
+git push origin main 
+cd UTN-FRA_SO_Examenes/202406/docker/
+sudo chmod 744 run.sh 
+echo "sudo chmod 744 run.sh" >> /home/joaquin/RTA_Examen_20241114/Punto_C.sh 
+cd
+git a..
