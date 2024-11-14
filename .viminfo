@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1731602100,,"wq"
+|2,0,1731603082,,"wq"
 :q!
 |2,0,1731597794,,"q!"
 
@@ -27,24 +27,122 @@
 # Registers:
 
 # File marks:
-'0  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,48,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
-'1  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,49,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
-'2  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,50,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
-'3  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,51,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+'0  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
+|4,48,2,47,1731603082,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
+'1  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
+|4,49,2,47,1731603029,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
+'2  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,50,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+'3  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,51,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+'4  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,52,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+'5  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,53,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+'6  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,54,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 
 # Jumplist (newest first):
+-'  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
+|4,39,2,47,1731603082,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
+-'  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
+|4,39,2,47,1731603029,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
+|4,39,1,0,1731602961,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
+|4,39,1,0,1731602961,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
+-'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
 -'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
 |4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
 -'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
 |4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
 -'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
 |4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 -'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
 |4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 -'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
 |4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 -'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
@@ -53,6 +151,90 @@
 |4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 -'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
 |4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
+|4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 -'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
 |4,39,1,0,1731592360,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
 -'  1  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
@@ -64,8 +246,15 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
+	*	1731603081	0
+	"	2	47
+	^	2	48
+	.	2	47
+	+	2	47
+
 > ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-	*	1731602098	0
+	*	1731602483	0
 	"	5	15
 	^	5	16
 	.	5	16

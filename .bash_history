@@ -242,3 +242,30 @@ ll
 vim index.html 
 echo "vim index.html" >> /home/joaquin/RTA_Examen_20241114/Punto_C.sh 
 cd
+git add .
+git commit -m "Edite el archivo html del docker"
+git push origin main 
+cd UTN-FRA_SO_Examenes/202406/docker/
+ll
+vim index.html 
+docker login -u joaquin121
+sudo usermod -a -G docker joaquin
+docker build -t web1-Greco .
+sudo docker build -t web1-Greco .
+docker images
+sudo docker images
+sudo docker build -t web1-greco .
+sudo docker images
+sudo docker images list
+sudo docker build -t web1-greco .
+ll
+vim Dockerfile
+ls
+sudo docker build -t web1-greco .
+vim Dockerfile 
+sudo docker build -t web1-greco .
+echo "vim Dockerfile" >> /home/joaquin/RTA_Examen_20241114/Punto_C.sh 
+git add /home/joaquin/.
+git add /home/joaquin/
+git add /home/joaquin/ .
+cd
