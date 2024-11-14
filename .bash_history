@@ -301,3 +301,93 @@ sudo chmod 744 run.sh
 echo "sudo chmod 744 run.sh" >> /home/joaquin/RTA_Examen_20241114/Punto_C.sh 
 cd
 git a..
+git add .
+git commit -m "Cambie los permisos del run.sh"
+git push origin main 
+cd UTN-FRA_SO_Examenes/202406/docker/
+./run.sh
+sudo ./run.sh
+sudo docker ps
+sudo systemctl restart docker
+sudo systemctl status docker
+sudo docker exec -it inspiring_poitras bash
+sudo docker ps -a
+sudo docker start inspiring_poitras
+sudo docker exec -it inspiring_poitras bash
+sudo docker stop inspiring_poitras
+sudo docker rm inspiring_poitras
+./run.sh
+sudo ./run.sh
+cd ..
+cd ansible/
+ll
+cd roles/
+ll
+cd 2do_parcial/
+cd
+cd /UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial
+cd UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial
+ll
+cd ..
+ll
+vim playbook.yml 
+cd roles/
+ll
+cd 2do_parcial/
+ll
+tasks
+cd tasks/
+ll
+vim main.yml 
+ll
+cd ..
+ll
+cd ..
+ll
+cd ..
+ll
+cd roles/
+cd
+cd UTN-FRA_SO_Examenes/
+cd 202406
+cd ansible/
+ll
+cd inventory/
+ll
+cat host
+cat hosts
+cd ..
+ca playbook.yml 
+cat playbook.yml 
+ansible-playbook playbook.yml -i inventory/hosts
+ll
+cat inventory/host
+cd inventory/
+ll
+cat hosts
+cd ..
+ll
+cd roles/
+ll
+cd 2do_parcial/
+ll
+cd tasks/
+ll
+vim main.iml
+ll
+vim main.yml
+cd ..
+ll
+cd 
+cd UTN-FRA_SO_Examenes/202406/ansible/roles/
+ll
+vim template_01.j2
+cd 2do_parcial/
+cd tasks/
+ll
+vim main.yml 
+cd ..
+ll
+vim template_02.j2
+echo "vim template_01.j2" >> /home/joaquin/RTA_Examen_20241114/Punto_D.sh 
+cd

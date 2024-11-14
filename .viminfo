@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1731604252,,"wq"
+|2,0,1731616936,,"wq"
+:q
+|2,0,1731615691,,"q"
 :q!
 |2,0,1731597794,,"q!"
 
@@ -27,226 +29,275 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/UTN-FRA_SO_Examenes/202406/docker/run.sh
-|4,48,2,0,1731604252,"~/UTN-FRA_SO_Examenes/202406/docker/run.sh"
-'1  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,49,2,47,1731603082,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
-'2  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,50,2,47,1731603029,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
-'3  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,51,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
-'4  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,52,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
-'5  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,53,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
-'6  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,54,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
-'7  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,55,8,0,1731592533,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+'0  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,48,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+'1  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,49,20,19,1731616575,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'2  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,50,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+'3  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,51,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'4  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,52,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'5  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,53,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+'6  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,54,11,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'7  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,55,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'8  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,56,11,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'9  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,57,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
 
 # Jumplist (newest first):
--'  2  0  ~/UTN-FRA_SO_Examenes/202406/docker/run.sh
-|4,39,2,0,1731604252,"~/UTN-FRA_SO_Examenes/202406/docker/run.sh"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/run.sh
-|4,39,1,0,1731604232,"~/UTN-FRA_SO_Examenes/202406/docker/run.sh"
--'  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,39,2,47,1731603082,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
--'  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,39,2,47,1731603082,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
--'  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,39,2,47,1731603029,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
--'  2  47  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,39,2,47,1731603029,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,39,1,0,1731602961,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,39,1,0,1731602961,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,39,1,0,1731602961,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile
-|4,39,1,0,1731602961,"~/UTN-FRA_SO_Examenes/202406/docker/Dockerfile"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602485,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  15  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,15,1731602100,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731602051,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  9  28  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,9,28,1731597794,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
--'  8  0  /usr/local/bin/Alfredo_AltaUser-Groups.sh
-|4,39,8,0,1731597719,"/usr/local/bin/Alfredo_AltaUser-Groups.sh"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,3,21,1731616936,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+|4,39,1,0,1731616596,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2"
+-'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,20,19,1731616575,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  20  19  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,20,19,1731616575,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616535,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  3  12  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,3,12,1731616516,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,1,0,1731616422,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,1,0,1731616422,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,1,0,1731616422,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+|4,39,1,0,1731616422,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  17  45  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,17,45,1731616310,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  11  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,11,0,1731615698,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+|4,39,1,0,1731615691,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  10  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,10,0,1731614517,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731614450,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
+-'  7  0  ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+|4,39,7,0,1731614265,"~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_02.j2
+	*	1731616934	0
+	"	3	21
+	^	3	22
+	.	3	21
+	+	3	35
+	+	3	21
+
+> ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+	*	1731616573	0
+	"	20	19
+	^	20	20
+	.	19	19
+	+	1	217
+	+	3	113
+	+	3	82
+	+	10	13
+	+	3	2
+	+	4	26
+	+	9	12
+	+	10	12
+	+	15	54
+	+	14	20
+	+	15	49
+	+	14	27
+	+	20	49
+	+	17	45
+	+	14	19
+	+	19	19
+
+> ~/UTN-FRA_SO_Examenes/202406/ansible/roles/template_01.j2
+	*	1731616515	0
+	"	3	12
+	^	3	13
+	.	3	13
+	+	3	13
+
+> ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.iml
+	*	1731615687	0
+	"	1	0
+
+> ~/UTN-FRA_SO_Examenes/202406/ansible/playbook.yml
+	*	1731614263	0
+	"	7	0
 
 > ~/UTN-FRA_SO_Examenes/202406/docker/run.sh
 	*	1731604251	0
