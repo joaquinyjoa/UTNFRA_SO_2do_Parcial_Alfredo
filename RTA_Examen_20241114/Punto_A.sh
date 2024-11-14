@@ -11,3 +11,4 @@ sudo lvcreate -l +100%FREE vg_datos -n lv_workareas
 sudo mkfs.ext4 /dev/mapper/vg_datos-lv_docker
 sudo mkfs.ext4 /dev/mapper/vg_datos-lv_workareas
 sudo mount /dev/mapper/vg_datos-lv_docker /var/lib/docker/
+sudo mount /dev/mapper/vg_datos-lv_workareas /work/
