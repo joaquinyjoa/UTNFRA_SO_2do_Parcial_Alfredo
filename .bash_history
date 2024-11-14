@@ -275,3 +275,14 @@ git push origin main
 cd UTN-FRA_SO_Examenes/202406/docker/
 echo "sudo docker build -t web1-greco ." >> /home//joaquin/RTA_Examen_20241114/Punto_C.sh 
 cd
+git add .
+git commit -m "Cree la imagen de docker"
+git push origin main 
+cd UTN-FRA_SO_Examenes/202406/docker/
+docker rmi web1-greco
+sudo docker rmi web1-greco
+docker build -t joaquin121/web1-Alfredo_latest .
+sudo docker build -t joaquin121/web1-Alfredo_latest .
+sudo docker build -t joaquin121/web1-alfredo_latest .
+echo "sudo docker build -t joaquin121/web1-alfredo_latest ." >> /home/joaquin/RTA_Examen_20241114/Punto_C.sh 
+cd
